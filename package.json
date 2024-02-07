@@ -1,0 +1,11 @@
+{
+  "name": "discord-bot-vicky-ciaran",
+  "version": "1.0.0",
+  "description": "Discord Bot by Vicky and Ciaran",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
